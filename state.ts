@@ -1,6 +1,3 @@
-import { statement } from "@babel/template";
-import exp from "constants";
-import { string } from "yargs";
 
  class Statement{
     variable: Var;
